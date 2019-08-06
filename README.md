@@ -8,7 +8,9 @@ https://github.com/netology-code/py-homework-advanced/tree/master/1.2.Iterators.
 #### Модуль ***wiki.py***
 Класс итератора ```WikiUrls```:
 * Считывает содержимое файла ```source/countries.json```
-* При каждой итерации получет wiki-ссылку для страны из содержимого файла ```countries.json``` и записывает в файл ```output/wiki_urls.txt``` строку вида: Наименование страны - wiki-ссылка.
+* При каждой итерации получет:
+  * wiki-ссылку для страны из содержимого файла ```countries.json```
+  * записывает в файл ```output/wiki_urls.txt``` строку вида: Наименование страны - wiki-ссылка.
  
 
 #### Модуль ***hash.py***
