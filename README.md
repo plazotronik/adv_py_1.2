@@ -1,4 +1,4 @@
-# Homework Python advanced 1.1 (Iterators. Generators. Yield)
+# Homework Python advanced 1.2 (Iterators. Generators. Yield)
 
 ##### Задание: 
 https://github.com/netology-code/py-homework-advanced/tree/master/1.2.Iterators.Generators.Yield
